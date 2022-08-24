@@ -24,8 +24,8 @@ fn main() {
     let x: i8 = 12;
 
     // This tells you the maximum and minimum of an i32 
-    println!("Maximum i32 is {}", std::i64::MAX);
-    println!("Maximum i32 is {}", std::i64::MIN);
+    println!("Maximum i32 is {}", std::i32::MAX);
+    println!("Maximum i32 is {}", std::i32::MIN);
 
     // Floating Point-Types:
     // A float is a number with a decimal after it e.g. 10.5
