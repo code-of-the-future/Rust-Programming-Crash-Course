@@ -27,7 +27,7 @@ fn main() {
     println!("Maximum i32 is {}", std::i32::MAX);
     println!("Maximum i32 is {}", std::i32::MIN);
 
-    // Floating Point-Types:
+    // Floating-Point Types:
     // A float is a number with a decimal after it e.g. 10.5
     // Floats can  be f32 or f64 - default is f64
     let y: f32 = 10.5;
