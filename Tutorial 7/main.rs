@@ -7,8 +7,8 @@ fn main() {
     // overflow! 
 
     // Basic maths
-    let a: f32 = 93.0; // 0 to 225
-    let b: f32 = 9.0;  // 0 to 225
+    let a: f32 = 93.0; // 0 to 255
+    let b: f32 = 9.0;  // 0 to 255
 
     // What would happen if we added an i8 and a u8?
     // We would get an error because they're both the
